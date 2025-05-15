@@ -5,3 +5,5 @@ matplotlib
 tensorflow
 keras
 streamlit
+gunicorn
+
